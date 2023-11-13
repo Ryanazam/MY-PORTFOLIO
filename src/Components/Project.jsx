@@ -55,16 +55,15 @@ const Project = () => {
         <div className="project-number project-number-right">03</div>
         <div className="project-content project-content-left">
         
-          <h2 className="project-heading">Top Courses</h2>
-          <p className="prject-subheading"> Top Courses is a web application developed using React, designed to provide users with a curated list of top-rated online
-            courses on various subjects</p>
+          <h2 className="project-heading">Random GIFS</h2>
+          <p className="prject-subheading"> Random GIfs is a web application developed using React, designed to provide users for generate Random GIFs and  also user can generate thier own choice(Gifs). </p>
           <div className="btn-group">
-            <a href="https://main--incomparable-puffpuff-dc2fae.netlify.app/">
+            <a href="https://ryanazam007.netlify.app/">
             <button className="btn-pink btn-project">Explore Website</button>
 
           </a>
           
-            <a href="https://github.com/Ryanazam/TopCourse-using-Reactjs.git">
+            <a href="https://github.com/Ryanazam/MY-GIFs.git">
             <VscGithub color='white' size={35} className='gitu'></VscGithub>
             </a>
            
